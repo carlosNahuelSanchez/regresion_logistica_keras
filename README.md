@@ -1,1 +1,1 @@
-"# regresion_logistica_keras" 
+# regresion_logistica_keras
